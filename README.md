@@ -4,5 +4,5 @@ variables.tf tenho as variaveis do docker image, key AWS, instance type.
 .gitignore temos os ficheiros/pastas não devem ser guardados no repositório.
 
 Não criei mais nada especifico para não ter de efetuar 'ligação' com AWS, por lapso.
-Fiz o comando terraform Inint com sucesso.
+Fiz o comando terraform Init com sucesso.
 Depois ja nao fiz o plan ou apply pois pedia já as chaves de acesso. 
